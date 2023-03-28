@@ -1,0 +1,5 @@
+server:
+  environment: test
+  port: 7070
+myCustomEnvs:
+  devName: Francesco Pio Amarena
